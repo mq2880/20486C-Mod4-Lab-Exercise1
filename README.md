@@ -4,7 +4,7 @@
 
 1. **Nombres y apellidos:** Francisco Javier Moreno Quevedo
 2. **Fecha:** 06/12/2020
-3. **Resumen del Ejercicio:**  1/4
+3. **Resumen del Ejercicio:**  Añadir los componentes necesarios para hacer funcional la aplicacion de viajes 1/4
 4. **Dificultad o problemas presentados y como se resolvieron:** Ninguna
 
 
